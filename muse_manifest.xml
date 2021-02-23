@@ -1,0 +1,161 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="fjmabogados.com" resolutions="1x" timestamp="1489200095225">
+  <folder name="css">
+    <file name="site_global.css" crc="4063230562"/>
+    <file name="nuesrtro-blog.css" crc="4264867764" ref="nuesrtro-blog"/>
+    <file name="publico-objetivo.css" crc="387695725" ref="publico-objetivo"/>
+    <file name="videos.css" crc="4046406694" ref="videos"/>
+    <file name="filosofia.css" crc="90874909" ref="filosofia"/>
+    <file name="iefonts_filosofia.css" crc="75475203" ref="filosofia"/>
+    <file name="index.css" crc="125525766" ref="index"/>
+    <file name="preguntas-frecuentes.css" crc="420151547" ref="preguntas-frecuentes"/>
+    <file name="iefonts_preguntas-frecuentes.css" crc="4036263022" ref="preguntas-frecuentes"/>
+    <file name="areas-de-especialidad.css" crc="36067371" ref="areas-de-especialidad"/>
+    <file name="iefonts_areas-de-especialidad.css" crc="4064280822" ref="areas-de-especialidad"/>
+    <file name="contacto.css" crc="365936232" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="329547132" ref="contacto"/>
+    <file name="servicios-online.css" crc="154860485" ref="servicios-online"/>
+    <file name="iefonts_servicios-online.css" crc="367369329" ref="servicios-online"/>
+    <file name="quienes-somos.css" crc="3863407707" ref="quienes-somos"/>
+    <file name="iefonts_quienes-somos.css" crc="400085408" ref="quienes-somos"/>
+    <file name="aviso-de-privacidad.css" crc="310127914" ref="aviso-de-privacidad"/>
+    <file name="iefonts_aviso-de-privacidad.css" crc="247543977" ref="aviso-de-privacidad"/>
+    <file name="defensa-legal.css" crc="294624793" ref="defensa-legal"/>
+    <file name="iefonts_defensa-legal.css" crc="4125532048" ref="defensa-legal"/>
+    <file name="servicios.css" crc="271894417" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="3791631856" ref="servicios"/>
+    <file name="sin-t_tulo-16.css" crc="4074011958" ref="sin-título-16"/>
+    <file name="servicios-de-cobranza.css" crc="3949134547" ref="servicios-de-cobranza"/>
+    <file name="iefonts_servicios-de-cobranza.css" crc="4024125885" ref="servicios-de-cobranza"/>
+    <file name="inicio.css" crc="446329266" ref="inicio"/>
+    <file name="iefonts_inicio.css" crc="64291946" ref="inicio"/>
+  </folder>
+  <folder name="assets">
+    <file name="video.mp4" crc="4231593064" seo="true" mt="1483709530000"/>
+    <file name="video.webm" crc="468656130" seo="true" mt="1483663802000"/>
+    <file name="firma1.jpg" crc="35260516" seo="true" mt="1469499948000"/>
+    <file name="mision.mp4" crc="4185482874" seo="true" mt="1484307606000"/>
+    <file name="mision.webm" crc="94536291" seo="true" mt="1484585971000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:videos:preguntas-frecuentes:contacto:aviso-de-privacidad:sin-título-16"/>
+    <file name="museutils.js" crc="4190794036" ref="index:quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:videos:preguntas-frecuentes:contacto:aviso-de-privacidad:sin-título-16"/>
+    <file name="whatinput.js" crc="84559013" ref="index:quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:videos:preguntas-frecuentes:contacto:aviso-de-privacidad:sin-título-16"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:quienes-somos:inicio"/>
+    <file name="pie.js" crc="3827607177" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:sin-título-16"/>
+    <file name="webpro.js" crc="488283310" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:sin-título-16"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:sin-título-16"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:sin-título-16"/>
+    <file name="touchswipe.js" crc="4191887251" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:sin-título-16"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="quienes-somos:servicios:inicio:filosofia:publico-objetivo:areas-de-especialidad:servicios-online:defensa-legal:servicios-de-cobranza:nuesrtro-blog:preguntas-frecuentes:contacto:aviso-de-privacidad"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="servicios:inicio:areas-de-especialidad:defensa-legal:servicios-de-cobranza"/>
+    <file name="form_check.php" crc="430210585" ref="contacto"/>
+    <file name="form_throttle.php" crc="282343929" ref="contacto"/>
+    <file name="form_process.php" crc="339897355" ref="contacto"/>
+    <file name="form-u14319.php" crc="3928906807" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="418890123" ref="index"/>
+    <file name="quienes b-01.png" crc="238253301" seo="true" ref="quienes-somos"/>
+    <file name="online.png" crc="264056680" ref="servicios"/>
+    <file name="online-capa 0.png" crc="3848490589" ref="servicios"/>
+    <file name="online-online-01.png" crc="3990953007" ref="servicios"/>
+    <file name="cobranza.png" crc="456125216" ref="servicios"/>
+    <file name="cobranza-capa 0.png" crc="180666921" ref="servicios"/>
+    <file name="cobranza-cobranza-01.png" crc="168256193" ref="servicios"/>
+    <file name="areas.png" crc="4032114192" ref="servicios"/>
+    <file name="areas-capa 0.png" crc="3925104410" ref="servicios"/>
+    <file name="defesa.png" crc="3822213796" ref="servicios"/>
+    <file name="defesa-capa 0.png" crc="85510006" ref="servicios"/>
+    <file name="cosulta.png" crc="245379640" ref="servicios"/>
+    <file name="cosulta-capa 0.png" crc="186864463" ref="servicios"/>
+    <file name="principal 3.png" crc="249643327" ref="inicio"/>
+    <file name="icono 1-01.png" crc="335963213" seo="true" ref="inicio"/>
+    <file name="iconos 4-01.png" crc="22467886" seo="true" ref="inicio"/>
+    <file name="iconos 2-01.png" crc="475289256" seo="true" ref="inicio"/>
+    <file name="iconos 5-01.png" crc="3936326675" seo="true" ref="inicio"/>
+    <file name="iconos 3-01.png" crc="4193101946" seo="true" ref="inicio"/>
+    <file name="iconos 6-01.png" crc="158114140" seo="true" ref="inicio"/>
+    <file name="servicios online 2.jpg" crc="3822353066" seo="true" ref="inicio"/>
+    <file name="nuestros servicios-01.jpg" crc="3771254713" seo="true" ref="inicio"/>
+    <file name="areas corregido 2-01.jpg" crc="4162045936" seo="true" ref="inicio"/>
+    <file name="logo fjm s.png" crc="38701509" seo="true" ref="inicio"/>
+    <file name="fondo blanco_f1f1f1.png" crc="512637043" seo="true" ref="inicio"/>
+    <file name="titulo.png" crc="16696140" seo="true" ref="inicio"/>
+    <file name="blank.gif" crc="4208392903" ref="inicio:areas-de-especialidad"/>
+    <file name="on-01.png" crc="230563742" ref="inicio"/>
+    <file name="on-01-on 2-01.png" crc="4270758061" ref="inicio"/>
+    <file name="tra 2-01.png" crc="424822358" ref="inicio"/>
+    <file name="tra 2-01-capa 0.png" crc="4157609016" ref="inicio"/>
+    <file name="doc-01.png" crc="429100424" ref="inicio"/>
+    <file name="doc-01-doc 2-01.png" crc="4255369163" ref="inicio"/>
+    <file name="tel 2-01.png" crc="34326870" ref="inicio"/>
+    <file name="tel 2-01-capa 0.png" crc="3859153314" ref="inicio"/>
+    <file name="video 2-01.png" crc="261210021" ref="inicio"/>
+    <file name="video 2-01-capa 0.png" crc="4094163336" ref="inicio"/>
+    <file name="cuadrado.png" crc="3934710155" seo="true" ref="inicio"/>
+    <file name="cuadro 2-01-crop-u6918.png" crc="3853917715" ref="inicio"/>
+    <file name="cuadro-crop-u6925.png" crc="4205299527" ref="inicio"/>
+    <file name="cuatro 3.png" crc="3826584890" seo="true" ref="inicio"/>
+    <file name="logo 2 color-01.png" crc="3866780300" seo="true" ref="inicio:defensa-legal"/>
+    <file name="fondo publico.jpg" crc="328809434" seo="true" ref="publico-objetivo"/>
+    <file name="fondo rec.jpg" crc="33288019" seo="true" ref="publico-objetivo"/>
+    <file name="arbol.png" crc="3831348282" seo="true" ref="areas-de-especialidad"/>
+    <file name="cons.png" crc="4038590012" ref="areas-de-especialidad"/>
+    <file name="cons-capa 0.png" crc="162451697" ref="areas-de-especialidad"/>
+    <file name="cons-cons.png" crc="419078226" ref="areas-de-especialidad"/>
+    <file name="corporativo.png" crc="4167991791" ref="areas-de-especialidad"/>
+    <file name="corporativo-capa 0.png" crc="4153269626" ref="areas-de-especialidad"/>
+    <file name="penal.png" crc="4286107933" ref="areas-de-especialidad"/>
+    <file name="penal-capa 0.png" crc="532848028" ref="areas-de-especialidad"/>
+    <file name="civil.png" crc="3848402815" ref="areas-de-especialidad"/>
+    <file name="civil-capa 0.png" crc="4292258419" ref="areas-de-especialidad"/>
+    <file name="laboral.png" crc="529539258" ref="areas-de-especialidad"/>
+    <file name="laboral-capa 0.png" crc="3892053770" ref="areas-de-especialidad"/>
+    <file name="mercantil.png" crc="4252834192" ref="areas-de-especialidad"/>
+    <file name="mercantil-capa 0.png" crc="3843841765" ref="areas-de-especialidad"/>
+    <file name="contratos 2.png" crc="4074529252" seo="true" ref="servicios-online"/>
+    <file name="contratos1.png" crc="469789350" seo="true" ref="servicios-online"/>
+    <file name="mini manuales e.png" crc="4042361332" seo="true" ref="servicios-online"/>
+    <file name="formatos e.png" crc="3799783903" seo="true" ref="servicios-online"/>
+    <file name="ct 2.png" crc="285430462" seo="true" ref="servicios-online"/>
+    <file name="c2.png" crc="3778871585" seo="true" ref="servicios-online"/>
+    <file name="pogos.png" crc="4230466825" seo="true" ref="servicios-online"/>
+    <file name="documentos varios e.png" crc="4023165663" seo="true" ref="servicios-online"/>
+    <file name="fondo-01.jpg" crc="482660781" ref="defensa-legal"/>
+    <file name="business-sem-fundo-photoshop1-crop-u10841.png" crc="3869142342" ref="defensa-legal"/>
+    <file name="titulo2.png" crc="55887754" seo="true" ref="defensa-legal"/>
+    <file name="rectangulo1.png" crc="3802698214" seo="true" ref="defensa-legal"/>
+    <file name="rectangulo2.png" crc="471656430" seo="true" ref="defensa-legal"/>
+    <file name="fondo cobranza.jpg" crc="3883082763" ref="servicios-de-cobranza"/>
+    <file name="businessman-with-briefcase-png.png" crc="238870768" seo="true" ref="servicios-de-cobranza"/>
+    <file name="fondo rectangulo.png" crc="3776315857" seo="true" ref="servicios-de-cobranza"/>
+    <file name="d52ca9ed59e3ad1e58c12b5894bb5392.jpg" crc="24773910" seo="true" ref="preguntas-frecuentes"/>
+    <file name="cotacto f2.png" crc="4162494193" seo="true" ref="contacto"/>
+    <file name="mail.png" crc="4280519349" seo="true" ref="contacto"/>
+    <file name="u14335-17.png" crc="4148707273" ref="contacto"/>
+    <file name="u14335-17-r.png" crc="152355997" ref="contacto"/>
+    <file name="u14335-17-m.png" crc="3929768203" ref="contacto"/>
+    <file name="u14335-17-fs.png" crc="4258744511" ref="contacto"/>
+    <file name="cotacto f1.png" crc="4138366042" seo="true" ref="contacto"/>
+    <file name="cotacto r.jpg" crc="4209666991" seo="true" ref="contacto"/>
+    <file name="logo2.png" crc="4104186851" seo="true" ref="aviso-de-privacidad"/>
+    <file name="cactus.jpg" crc="267755099" seo="true" ref="sin-título-16"/>
+    <file name="trees.jpg" crc="247153865" seo="true" ref="sin-título-16"/>
+  </folder>
+  <file name="index.html" crc="4247514670" seo="true" mt="1489199659263" redirect="true"/>
+  <file name="quienes-somos.html" crc="4058900771" seo="true" mt="1489199659271" redirect="true"/>
+  <file name="servicios.html" crc="223937604" seo="true" mt="1489199659284" redirect="true"/>
+  <file name="inicio.html" crc="3950570813" seo="true" mt="1489199659295" redirect="true"/>
+  <file name="filosofia.html" crc="110962165" seo="true" mt="1489199659315" redirect="true"/>
+  <file name="publico-objetivo.html" crc="3924644866" seo="true" mt="1489199657812" redirect="true"/>
+  <file name="areas-de-especialidad.html" crc="13140616" seo="true" mt="1489199659325" redirect="true"/>
+  <file name="servicios-online.html" crc="3788431882" seo="true" mt="1489199659334" redirect="true"/>
+  <file name="defensa-legal.html" crc="3877565164" seo="true" mt="1489199659344" redirect="true"/>
+  <file name="servicios-de-cobranza.html" crc="100336513" seo="true" mt="1489199659359" redirect="true"/>
+  <file name="nuesrtro-blog.html" crc="21789273" seo="true" mt="1489199659368" redirect="true"/>
+  <file name="videos.html" crc="457773746" seo="true" mt="1489199656183" redirect="true"/>
+  <file name="preguntas-frecuentes.html" crc="339102512" seo="true" mt="1489199659378" redirect="true"/>
+  <file name="contacto.html" crc="313799224" seo="true" mt="1489199659387" redirect="true"/>
+  <file name="aviso-de-privacidad.html" crc="497824686" seo="true" mt="1489199659424" redirect="true"/>
+  <file name="sin-título-16.html" crc="517614146" seo="true" mt="1489199659434" redirect="true"/>
+</manifest>
